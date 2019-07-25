@@ -4,14 +4,15 @@ This model uses VGG Network to extract style from style image and transfer to co
 
 Below are progress of Style Transfer model result:
 
-Generated images in iteration
+Generated images in iteration  
+
 <img src="result-1.png">
 <img src="result-2.png">
 <img src="result-3.png">
 <img src="result-4.png">
 <img src="result-5.png">
 
-Final Result
+Final Result  
 <img src="style-transfer-final-result.png">
 
 There are 3 main parts of this model:
